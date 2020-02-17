@@ -1,0 +1,250 @@
+2020-02-17 16:52:37 [INFO] HLSdownloadMain.java(Line:94):  #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:19
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/1109/clef/BzcX337xsKuw94uoYJL1yBeJkJdL3t3s",IV=0x0fe82567a6be41afda68d82d3724976a
+#EXTINF:8.583,
+https://xuecdn2.aliyunedu.net/headLeader-0/20170519032524-ggauw1x00qo0okgk-conv/e_20170519032524-ggauw1x00qo0okgk-conv_hd_seg_0.ts
+#EXT-X-DISCONTINUITY
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0x60bd724aa782d972da65411900bdbdf1
+#EXTINF:10.080,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_0.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0xdbf5e3f9b8b813bfd24235b466124142
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_1.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0xd37b6742ffa12600853cbf01624a38c1
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_2.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0xb4c1b14a1ec35d4d28ae7b0dd471c427
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_3.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0x8f930de1ca517afa29894862ce38260a
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_4.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0x59e66c837e4f839bd252bb47a70ce173
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_5.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0xa5a1224a0899c34a59c0508089c6a4a4
+#EXTINF:18.560,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_6.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0xa46d7a77300f35a8f695725fb26561a1
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_7.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0x60edb55e56e8b81bfb06d5697dfde9e4
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_8.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0xac261747d309c24bd41b974054e3dd88
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_9.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0xabec234f74936de41f0b74cc8b0699f3
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_10.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0x4e06246990cfda4fa4a197e22f9b88fd
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_11.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0x70395a2eaee892737250943c3c8c489c
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_12.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0x8d5e77c26bafe225486ec9a063cbb574
+#EXTINF:2.720,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_13.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C",IV=0x2c3a40cab7999cfe56c20726ae1638b6
+#EXTINF:9.040,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_14.ts
+#EXT-X-ENDLIST
+2020-02-17 16:52:37 [INFO] HLSdownloadMain.java(Line:191):  {"encodeMethod":"AES-128","iv":"0x0fe82567a6be41afda68d82d3724976a","keyByte":[102,100,50,51,97,100,54,97,22,52,49,98,17,50,0,0],"keyStr":"fd23ad6av4q641br6q32","keyUri":"https://edu.aliyun.com/hls/1109/clef/BzcX337xsKuw94uoYJL1yBeJkJdL3t3s","num":1,"tsPath":"https://xuecdn2.aliyunedu.net/headLeader-0/20170519032524-ggauw1x00qo0okgk-conv/e_20170519032524-ggauw1x00qo0okgk-conv_hd_seg_0.ts","useKey":true}
+2020-02-17 16:52:37 [INFO] HLSdownloadMain.java(Line:191):  {"encodeMethod":"AES-128","iv":"0x60bd724aa782d972da65411900bdbdf1","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,0,0],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C","num":2,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_0.ts","useKey":true}
+2020-02-17 16:52:37 [INFO] HLSdownloadMain.java(Line:191):  {"encodeMethod":"AES-128","iv":"0xdbf5e3f9b8b813bfd24235b466124142","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,0,0],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C","num":3,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_1.ts","useKey":true}
+2020-02-17 16:52:37 [INFO] HLSdownloadMain.java(Line:191):  {"encodeMethod":"AES-128","iv":"0xd37b6742ffa12600853cbf01624a38c1","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,0,0],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C","num":4,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_2.ts","useKey":true}
+2020-02-17 16:52:37 [INFO] HLSdownloadMain.java(Line:191):  {"encodeMethod":"AES-128","iv":"0xb4c1b14a1ec35d4d28ae7b0dd471c427","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,0,0],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/0aa2BAIGd5iS2vd3R7qNiOgN8pCWyn5C","num":5,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_hd_seg_3.ts","useKey":true}
+2020-02-17 16:52:39 [ERROR] FileUtil.java(Line:145): java.lang.NullPointerException
+	at java.io.FileOutputStream.write(FileOutputStream.java:313)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:143)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:101)
+	at cn.windfly.tools.MyThread.run(HLSdownloadMain.java:287)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2020-02-17 16:52:39 [ERROR] FileUtil.java(Line:145): java.lang.NullPointerException
+	at java.io.FileOutputStream.write(FileOutputStream.java:313)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:143)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:101)
+	at cn.windfly.tools.MyThread.run(HLSdownloadMain.java:287)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2020-02-17 16:52:39 [ERROR] FileUtil.java(Line:145): java.lang.NullPointerException
+	at java.io.FileOutputStream.write(FileOutputStream.java:313)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:143)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:101)
+	at cn.windfly.tools.MyThread.run(HLSdownloadMain.java:287)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2020-02-17 16:52:39 [ERROR] FileUtil.java(Line:145): java.lang.NullPointerException
+	at java.io.FileOutputStream.write(FileOutputStream.java:313)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:143)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:101)
+	at cn.windfly.tools.MyThread.run(HLSdownloadMain.java:287)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2020-02-17 16:52:39 [ERROR] FileUtil.java(Line:145): java.lang.NullPointerException
+	at java.io.FileOutputStream.write(FileOutputStream.java:313)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:143)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:101)
+	at cn.windfly.tools.MyThread.run(HLSdownloadMain.java:287)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2020-02-17 17:01:02 [ERROR] HttpUtil.java(Line:149): java.io.FileNotFoundException: https://edu.aliyun.com/hls/5058/stream/hd/nzsHaw7CCOotWVjAOG2MyQKHVC1y55wp.m3u8?courseId=838&
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1889)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1884)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1883)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1456)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at cn.windfly.util.HttpUtil.getBytes(HttpUtil.java:132)
+	at cn.windfly.util.HttpUtil.getBytes(HttpUtil.java:73)
+	at cn.windfly.util.HttpUtil.getString(HttpUtil.java:50)
+	at cn.windfly.tools.HLSdownloadMain.getM3u8FileContent(HLSdownloadMain.java:85)
+	at cn.windfly.tools.HLSdownloadMain.downloadM3u8(HLSdownloadMain.java:78)
+	at cn.windfly.tools.HLSdownloadMain.main(HLSdownloadMain.java:55)
+Caused by: java.io.FileNotFoundException: https://edu.aliyun.com/hls/5058/stream/hd/nzsHaw7CCOotWVjAOG2MyQKHVC1y55wp.m3u8?courseId=838&
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1835)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+	at cn.windfly.util.HttpUtil.getBytes(HttpUtil.java:131)
+	... 5 more
+
+2020-02-17 17:08:45 [INFO] HLSdownloadMain.java(Line:95):  #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:19
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/1109/clef/GnyqIA7HOz1sqdmXA2f5ymWXA2EHxwwm",IV=0x1e9c836e45f44d5cabf7a31a0b540152
+#EXTINF:8.583,
+https://xuecdn2.aliyunedu.net/headLeader-0/20170519032524-ggauw1x00qo0okgk-conv/e_20170519032524-ggauw1x00qo0okgk-conv_sd_seg_0.ts
+#EXT-X-DISCONTINUITY
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0x9ecb3da768216e47be06cb713600a573
+#EXTINF:10.080,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_0.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0x43e719e821980efccf28baaf1b0b07e4
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_1.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0xbdbd7a59cf1cd18a1b2d5dc68c1840d0
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_2.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0xe9d542f020df26941c169dc2aebee8ec
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_3.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0x1b26e1612414aa8b79217e31ce0b7e79
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_4.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0xaaf9b6adab256b0e53fc13ee2e99d138
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_5.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0xc2278c53888f39e9ce6e14c436d18194
+#EXTINF:18.560,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_6.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0x3bcc82f1a71e0f7dddbf2836e17721c5
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_7.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0xc825b175984a8b76925ca829990cad17
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_8.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0x64d1547fdb9671c131deaf83890362ac
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_9.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0x67ebc5aa14095ca9e78870c09c3feec4
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_10.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0x6a020bd10da5a5f9c7247e41b70a5deb
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_11.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0x8fe8bbab9514a0d77fbfe009713df297
+#EXTINF:10.000,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_12.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0x280d3b9d0a1bbf33ee2df3664a43ddb0
+#EXTINF:2.720,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_13.ts
+#EXT-X-KEY:METHOD=AES-128,URI="https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms",IV=0x5be96767282d7615542479ab4ff2ca22
+#EXTINF:9.040,
+https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_14.ts
+#EXT-X-ENDLIST
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x1e9c836e45f44d5cabf7a31a0b540152","keyByte":[102,100,50,51,97,100,54,97,22,52,49,98,17,50,54,51],"keyStr":"fd23ad6av4q641br6q32","keyUri":"https://edu.aliyun.com/hls/1109/clef/GnyqIA7HOz1sqdmXA2f5ymWXA2EHxwwm","num":1,"tsPath":"https://xuecdn2.aliyunedu.net/headLeader-0/20170519032524-ggauw1x00qo0okgk-conv/e_20170519032524-ggauw1x00qo0okgk-conv_sd_seg_0.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x9ecb3da768216e47be06cb713600a573","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":2,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_0.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x43e719e821980efccf28baaf1b0b07e4","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":3,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_1.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0xbdbd7a59cf1cd18a1b2d5dc68c1840d0","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":4,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_2.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0xe9d542f020df26941c169dc2aebee8ec","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":5,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_3.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x1b26e1612414aa8b79217e31ce0b7e79","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":6,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_4.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0xaaf9b6adab256b0e53fc13ee2e99d138","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":7,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_5.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0xc2278c53888f39e9ce6e14c436d18194","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":8,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_6.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x3bcc82f1a71e0f7dddbf2836e17721c5","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":9,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_7.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0xc825b175984a8b76925ca829990cad17","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":10,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_8.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x64d1547fdb9671c131deaf83890362ac","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":11,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_9.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x67ebc5aa14095ca9e78870c09c3feec4","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":12,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_10.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x6a020bd10da5a5f9c7247e41b70a5deb","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":13,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_11.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x8fe8bbab9514a0d77fbfe009713df297","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":14,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_12.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x280d3b9d0a1bbf33ee2df3664a43ddb0","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":15,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_13.ts","useKey":true}
+2020-02-17 17:08:46 [INFO] HLSdownloadMain.java(Line:137):  {"encodeMethod":"AES-128","iv":"0x5be96767282d7615542479ab4ff2ca22","keyByte":[51,97,57,50,99,101,52,57,97,51,54,53,48,52,48,101],"keyStr":"3a92ce49a136550400e5","keyUri":"https://edu.aliyun.com/hls/5058/clef/Tv6iqdNkLc9jhPsZu3x3w5avHENal4Ms","num":16,"tsPath":"https://xuecdn2.aliyunedu.net/courselesson-21/20180308075630-c2gi4yd6s1s040os-conv/e_20180308075630-c2gi4yd6s1s040os-conv_sd_seg_14.ts","useKey":true}
+2020-02-17 17:08:48 [ERROR] FileUtil.java(Line:145): java.lang.NullPointerException
+	at java.io.FileOutputStream.write(FileOutputStream.java:313)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:143)
+	at cn.windfly.util.FileUtil.save(FileUtil.java:101)
+	at cn.windfly.tools.MyThread.run(HLSdownloadMain.java:295)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:62):  #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:21
+#EXTINF:5.080000,
+25eea41273934c5984853fab9513945f_0000000.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&
+#EXTINF:4.920000,
+25eea41273934c5984853fab9513945f_0000001.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&
+#EXTINF:5.080000,
+25eea41273934c5984853fab9513945f_0000002.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&
+#EXTINF:5.000000,
+25eea41273934c5984853fab9513945f_0000003.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&
+#EXTINF:5.000000,
+25eea41273934c5984853fab9513945f_0000004.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&
+#EXTINF:20.000000,
+25eea41273934c5984853fab9513945f_0000005.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&
+#EXTINF:20.000000,
+25eea41273934c5984853fab9513945f_0000006.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&
+#EXTINF:20.000000,
+25eea41273934c5984853fab9513945f_0000007.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&
+#EXTINF:20.000000,
+25eea41273934c5984853fab9513945f_0000008.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&
+#EXTINF:17.760000,
+25eea41273934c5984853fab9513945f_0000009.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&
+#EXT-X-ENDLIST
+
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:104):  {"num":1,"tsPath":"25eea41273934c5984853fab9513945f_0000000.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&","useKey":false}
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:104):  {"num":2,"tsPath":"25eea41273934c5984853fab9513945f_0000001.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&","useKey":false}
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:104):  {"num":3,"tsPath":"25eea41273934c5984853fab9513945f_0000002.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&","useKey":false}
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:104):  {"num":4,"tsPath":"25eea41273934c5984853fab9513945f_0000003.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&","useKey":false}
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:104):  {"num":5,"tsPath":"25eea41273934c5984853fab9513945f_0000004.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&","useKey":false}
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:104):  {"num":6,"tsPath":"25eea41273934c5984853fab9513945f_0000005.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&","useKey":false}
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:104):  {"num":7,"tsPath":"25eea41273934c5984853fab9513945f_0000006.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&","useKey":false}
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:104):  {"num":8,"tsPath":"25eea41273934c5984853fab9513945f_0000007.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&","useKey":false}
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:104):  {"num":9,"tsPath":"25eea41273934c5984853fab9513945f_0000008.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&","useKey":false}
+2020-02-17 17:13:32 [INFO] HLSdownloadMain.java(Line:104):  {"num":10,"tsPath":"25eea41273934c5984853fab9513945f_0000009.ts?tlink=5e4a7532&tplay=5e4b01d2&exper=0&nlimit=5&us=a1fcf0d41e8a260b294299fd00091501&sign=40433b5b04537a167df326b4299b6c40&u=0&d=a1fcf0d41e8a260b294299fd00091501&ct=web&vid=12683936&pt=2&cdn=tx&","useKey":false}
